@@ -1,4 +1,4 @@
-# nbh – neighbourhood discovery server
+# nbh – neighbour discovery server
 
 *nbh* is a server that listens on multicast address and makes connections to other
 nodes in neighbourhood, so they are listed in `nodes()`.
